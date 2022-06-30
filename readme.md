@@ -1,6 +1,7 @@
 # Initial-Coin-Offering
 
-![image](https://i.imgur.com/78uY3Mm_d.webp?maxwidth=1520&fidelity=grand)
+![image](https://i.imgur.com/nvLT06K.png)
+![image](https://i.imgur.com/uWJAYcZ.png)
 
 This Dapp is for the Defi Exchange based loosely on Uniswap v1 that supports liquidity provision and swapping functionality of crypto dev token and eth.
 
